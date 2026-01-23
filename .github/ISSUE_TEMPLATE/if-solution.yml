@@ -15,6 +15,13 @@ body:
       options:
         - S1
         - S2
+        - S3
+        - S4
+        - S5
+        - T1
+        - T2
+        - T3
+        - T4
     validations:
       required: true    
   - type: input
@@ -65,7 +72,13 @@ body:
       label: Type of the IF solution
       description: 
       options:
+        - Standard
         - Guidelines
+        - Model
+        - Software
+        - Others
+        - Support
+        - Service
     validations:
       required: true     
   - type: textarea
