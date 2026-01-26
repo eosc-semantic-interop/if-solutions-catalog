@@ -1,0 +1,26 @@
+[project]
+name = "if-solutions-catalog"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Joonas Kesäniemi",email = "joonas.kesaniemi@csc.fi"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-awesome-pages-plugin>=2.10.1",
+    "mkdocs-material>=9.7.1",
+    "mkdocs-mermaid2-plugin>=1.2.3",
+    "mkdocs-table-reader-plugin>=3.1.0",
+    "pymdown-extensions>=10.19.1",
+    "python-frontmatter>=1.1.0",
+    "mkdocs-awesome-nav (>=3.3.0,<4.0.0)",    
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
