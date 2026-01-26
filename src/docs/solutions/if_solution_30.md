@@ -1,5 +1,5 @@
 ---
-title: "NVS sn the NERC Vocabulary server in the maring domain. https://vocab.nerc.ac.uk"
+title: "NVS is the NERC Vocabulary server in the marine domain. https://vocab.nerc.ac.uk"
 desc: "The NVS is a service providing access to centrally managed and uniquely identified lists of terms for annotating data in the marine and related earth science domains. It is managed by the British Oceanographic Data Centre (BODC) at the National Oceanography Centre (NOC). It is funded by the UK Research and Innovation Natural Environment Research Council (UKRI-NERC) as part of its Environmental Data Services (EDS) national capabilities, with additional funding from European projects. Standardised controlled vocabularies are used by data creators, data managers, and tool developers for indexing, annotating, and searching for data, enabling greater interoperability and reuse."
 type: Service
 status: Ready
@@ -35,5 +35,6 @@ Blue-Cloud, FAIR-EASE. ENVRI-Hub-Next
 
 
 ## Any other comment
+
 
 
