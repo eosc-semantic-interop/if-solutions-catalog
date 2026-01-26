@@ -1,0 +1,25 @@
+nav:
+  - Home: index.md
+  - Summary of interoperability problems: interoperability_problems.md
+  - Solution catalog:
+    - By type:
+      - Guidelines: solutions_overview_by_type/#guidelines
+      - Infrastructure: solutions_overview_by_type/#infrastructure
+      - Model: solutions_overview_by_type/#model    
+      - Other: solutions_overview_by_type/#other
+      - Service: solutions_overview_by_type/#service
+      - Software: solutions_overview_by_type/#software
+      - Standard: solutions_overview_by_type/#standard
+      - Support: solutions_overview_by_type/#support
+      - Unknown: solutions_overview_by_type/#unknown
+    - By problem:
+      - S1 — Lack of common definitions: solutions_overview_by_problem/#s1-lack-of-common-definitions
+      - S2 — Lack of shared semantic artefacts: solutions_overview_by_problem/#s2-lack-of-shared-semantic-artefacts
+      - S3 — Lack of reference repositories for semantic artefacts: solutions_overview_by_problem/#s3-lack-of-reference-repositories-for-semantic-artefacts
+      - S4 — Poor documentation and fragmented metadata schemas: solutions_overview_by_problem/#s4-poor-documentation-and-fragmented-metadata-schemas
+      - S5 — Lack of semantic expertise in communities: solutions_overview_by_problem/#s5-lack-of-semantic-expertise-in-communities
+      - T1 — Fragmented authentication and authorisation: solutions_overview_by_problem/#t1-fragmented-authentication-and-authorisation
+      - T2 — Heterogeneous data formats: solutions_overview_by_problem/#t2-heterogeneous-data-formats
+      - T3 — Difficulty finding data at different granularities: solutions_overview_by_problem/#t3-difficulty-finding-data-at-different-granularities
+      - T4 — PID fragmentation and inconsistency: solutions_overview_by_problem/#t4-pid-fragmentation-and-inconsistency
+      - Unknown: solutions_overview_by_problem/#unknown
